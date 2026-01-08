@@ -165,12 +165,6 @@
                     <h3>我的成绩</h3>
                     <p>查看我的成绩信息</p>
                 </div>
-                
-                <div class="menu-item" onclick="location.href='${pageContext.request.contextPath}/scoreManage/export'">
-                    <div class="icon">📥</div>
-                    <h3>成绩导出</h3>
-                    <p>导出我的成绩数据</p>
-                </div>
             </div>
         </div>
         

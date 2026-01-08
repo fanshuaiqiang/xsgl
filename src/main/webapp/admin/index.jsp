@@ -160,23 +160,6 @@
                     <p>管理学生成绩信息</p>
                 </div>
                 
-                <div class="menu-item" onclick="location.href='${pageContext.request.contextPath}/admin/score/import.jsp'">
-                    <div class="icon">📤</div>
-                    <h3>批量导入</h3>
-                    <p>批量导入成绩数据</p>
-                </div>
-                 <div class="menu-item" onclick="location.href='${pageContext.request.contextPath}/scoreManage/export'">
-                    <div class="icon">📥</div>
-                    <h3>成绩导出</h3>
-                    <p>导出学生成绩数据</p>
-                </div>
-
-                <div class="menu-item" onclick="location.href='${pageContext.request.contextPath}/studentManage/export'">
-                    <div class="icon">📥</div>
-                    <h3>数据导出</h3>
-                    <p>导出学生信息</p>
-                </div>
-                
                 <div class="menu-item" onclick="location.href='${pageContext.request.contextPath}/statistics'">
                     <div class="icon">📈</div>
                     <h3>统计分析</h3>
